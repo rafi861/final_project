@@ -1,0 +1,21 @@
+.img{
+    border-radius: 10%;
+    width: 400px;
+    height: 400px;
+    display: inline ;
+    justify-content: center;
+}
+.home{
+    text-decoration: none;
+    font-size: 20px;
+}
+body{
+    background-image: url('/src/component/post/Download\ premium\ vector\ of\ Diy\ Christmas\ and\ Holiday\ card\ on\ a\ wooden\ table\ vector\ by\ Ning\ about\ instant\ photo\,\ photo\ clip\,\ christmas\ greenery\,\ checkered\ background\,\ and\ confetti\ background\ 1226305.jpg');
+}
+.create{
+    position: relative;
+    left: 60px;
+}
+.form-control{
+    width: 50%;
+}
