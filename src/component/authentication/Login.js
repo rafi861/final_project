@@ -18,7 +18,6 @@ const Loginn = () =>{
         })
         .then(function(response){
             console.log(response.data.user);
-            // setData(response.data.user)
 
         })
         },[])

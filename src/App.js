@@ -16,10 +16,7 @@ function App() {
    <div>
     <BrowserRouter>
     <Navbarr/>
-    {/* <Login/> */}
     <LoginUser/>
-    {/* <Daftar/> */}
-    {/* <Login/> */}
     <Switch>
     <Route component={Explore}path="/" exact/>
     <Route component={MyFollowers} path="/followers"/>

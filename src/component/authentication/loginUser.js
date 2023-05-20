@@ -17,7 +17,6 @@ const LoginUser = () => {
         })
         .then(function(response){
             console.log(response.data.user);
-            // setData(response.data)
             localStorage.setItem('token', JSON.stringify(response.data.token));
         })
         },[])
